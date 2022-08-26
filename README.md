@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Marcia022
-- 👀 I’m interested in trabajar de auxiliar en programación 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in trabajar en desarrollo web
+- 🌱 I’m currently learning en el instituto superior teclab 
+- 💞️ I’m looking to collaborate on auxiliar de programación 
+- 📫 How to reach através del mail: marciabelen9@gmail.com o mi celular es : 3435121353
 
 <!---
 Marcia022/Marcia022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
